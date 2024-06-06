@@ -8,6 +8,6 @@ The NEON Airborne Observation Platform (AOP) conducted aerial surveys over SOAP 
 
 This Python tutorial is broken down into three parts:
 
-Read the NEON discrete-return lidar data (DP1.30003.001) and visualize the 3D lidar point cloud.
-Read the lidar-derived Digital Terrain Model (DP3.30024.001) in Python. Visualize the spatial extent of the lidar data used in this tutorial with that of the Creek Fire perimeter and the SOAP flight boundary.
-Calculate and compare the relative height percentiles of the discrete returns before and after the 2020 Creek Fire.
+1. Read the NEON discrete-return lidar data (DP1.30003.001) and visualize the 3D lidar point cloud.
+2. Read the lidar-derived Digital Terrain Model (DP3.30024.001) in Python. Visualize the spatial extent of the lidar data used in this tutorial with that of the Creek Fire perimeter and the SOAP flight boundary.
+3. Calculate and compare the relative height percentiles of the discrete returns before and after the 2020 Creek Fire.
