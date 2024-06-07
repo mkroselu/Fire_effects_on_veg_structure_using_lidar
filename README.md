@@ -858,7 +858,7 @@ df_2021.head()
 
 
 ```python
-## Save the new 5m raster in the DTM data folder
+## Save the new 10m raster in the DTM data folder
 dtm_directory = os.path.join(data_root_dir,"Digital_Terrain_Model")
 os.chdir(dtm_directory)
 
