@@ -593,7 +593,7 @@ print("Projection for Soaproot Saddle kml file = %s" %soap_boundary.crs)
     Projection for Soaproot Saddle kml file = epsg:4326
     
 
-Maps are usually provided in different projections, and converting from one to another is common. Here, we will convert the Creek Fire shapefile from EPSG:3857 to 4326 using the `Pyproj` package. Since the Creek fire shapefile is a collection of polygons, the coordinates for each of the polygon need to converted from EPSG:3857 to 4326. The following code cell demonstrates how this conversion works for one polygon. 
+Maps are usually provided in different projections, and converting from one to another is common. Here, we will convert the Creek Fire shapefile from EPSG:3857 to 4326 using the `Pyproj` package. Since the Creek fire shapefile is a collection of polygons, the coordinates for each of the polygon need to be converted from EPSG:3857 to 4326. The following code cell demonstrates how this conversion works for one polygon. 
 
 
 ```python
